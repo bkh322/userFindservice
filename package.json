@@ -10,7 +10,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@types/jest": "^26.0.4",
     "antd": "^4.8.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "diff": "^4.0.2",
     "hotkeys-js": "^3.8.1",
